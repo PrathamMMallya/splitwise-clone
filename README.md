@@ -1,4 +1,4 @@
-# 💸 Splitwise Clone
+#  Splitwise Clone (In Progress Not Totally completed)
 
 A full-stack expense-sharing web application inspired by Splitwise, built using **FastAPI**, **PostgreSQL**, **React**, **TypeScript**, and **TailwindCSS**.
 
