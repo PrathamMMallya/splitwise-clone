@@ -14,12 +14,6 @@ A full-stack expense-sharing web application inspired by Splitwise, built using 
 
 ---
 
-## 🖼️ UI Preview
-
-> Include screenshots or a Loom demo here!
-
----
-
 ## 🏗️ Tech Stack
 
 | Frontend          | Backend          | Database     | Deployment |
